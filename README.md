@@ -1,5 +1,8 @@
 # TippingJar.sol
 Tipping Jar Smart Contract
+
+---
+
 A simple and transparent Ethereum smart contract for collecting tips with a built-in leaderboard and balance checker. Perfect for content creators, open-source developers, or anyone looking to accept crypto tips with style.
 
 ---
