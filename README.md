@@ -1,0 +1,1 @@
+# TippingJar.sol
